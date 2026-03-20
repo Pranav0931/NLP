@@ -132,13 +132,3 @@ Include the following sections in your PDF report:
 5. Conclusion
     - Final selected model and deployment readiness
     - GUI functionality and practical usability
-
-## Submission Instructions
-1. Take screenshots for each implementation step
-2. Take screenshots of GUI predictions
-3. Upload complete project files to GitHub
-4. Add GitHub repository link in final report
-5. Export notebook as PDF and submit
-
-## Status
-Submission ready notebook with strict best model selection and GUI deployment workflow.
